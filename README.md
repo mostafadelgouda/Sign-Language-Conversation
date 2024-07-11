@@ -2,16 +2,6 @@
 
 A Python-based desktop application that facilitates seamless communication by translating Arabic Sign Language to voice and vice versa. The application utilizes deep learning models for hand gesture detection and a user-friendly interface built with Tkinter.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 The Sign Language Conversation application aims to bridge the communication gap between deaf and hearing individuals by translating sign language gestures into audible sentences and vice versa.
 
